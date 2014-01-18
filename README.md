@@ -1,0 +1,1 @@
+Some basic folder services. Put these in ~/Library/Services folder to get them to work.
